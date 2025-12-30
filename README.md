@@ -3,9 +3,12 @@
 
 ###
 
-<p align="left">📚 I'm currently studying for my Master's in Computer Engineering.</p>
-
-###
+<p align="left">
+  🎓 I'm currently pursuing a <strong>Master's in Computer Engineering</strong> at IPCA.
+</p>
+<p align="left">
+  💼 Simultaneously working as a <strong>Freelance Software Engineer</strong>, developing a full-stack platform focused on <strong>school dropout prevention.
+</p>
 
 <h2 align="left">Socials</h2>
 
